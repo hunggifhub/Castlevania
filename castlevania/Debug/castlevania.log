@@ -1,2 +1,9 @@
-﻿  main.cpp
-  castlevania.vcxproj -> C:\Users\ASUS\source\repos\castlevania\Debug\castlevania.exe
+﻿  debug.cpp
+  Game.cpp
+  GameObject.cpp
+  main.cpp
+  Simon.cpp
+  Sprites.cpp
+  Textures.cpp
+  Generating Code...
+  castlevania.vcxproj -> C:\Users\ASUS\Desktop\Game\Debug\castlevania.exe
